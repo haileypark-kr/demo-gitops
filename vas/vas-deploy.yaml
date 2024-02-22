@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: vas
-          image: tngusqkr1/vas
+          image: tngusqkr1/vas:1.0.0
           ports:
           - name: http
             containerPort: 8080
