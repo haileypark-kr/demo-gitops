@@ -6,4 +6,4 @@ resources:
 - vas-ing.yaml
 images:
 - name: tngusqkr/vas
-  newTag: 1.0.0
+  newTag: 0.0.1
