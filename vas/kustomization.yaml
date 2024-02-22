@@ -5,5 +5,5 @@ resources:
 - vas-deploy.yaml
 - vas-ing.yaml
 images:
-- name: tngusqkr/vas
+- name: tngusqkr1/vas
   newTag: 0.0.1
